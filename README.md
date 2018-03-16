@@ -1,6 +1,8 @@
 # Mosby
 A Model-View-Presenter and Model-View-Intent library for Android apps.
 
+mvp模式，自己创建的mvp可以继承里面的basepresenter
+
 
 [![Build Status](https://travis-ci.org/sockeqwe/mosby.svg?branch=master)](https://travis-ci.org/sockeqwe/mosby)
 
